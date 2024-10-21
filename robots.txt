@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newyorkdaily.github.io/sitemap.xml
